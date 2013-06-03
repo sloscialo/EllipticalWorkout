@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="remoteUriBase">http://192.168.1.33:1337</string>
+	<string name="start_button">Start Workout</string>
+	<string name="end_button">End Workout</string>
+	<string name="app_name">Elliptical Workout</string>
+	<string name="stage_template">{0} of {1}</string>
+</resources>
